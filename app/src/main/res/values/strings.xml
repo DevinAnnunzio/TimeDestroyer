@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Time Destroyer</string>
+    <string name="currentScore">Current Score: %1$d</string>
+    <string name="timeLeft">Time Left: %1$d</string>
+    <string name="clickMe">Click me</string>
+    <string name="gameOverMessage">Game over...Your score was: %1$d</string>
+</resources>
