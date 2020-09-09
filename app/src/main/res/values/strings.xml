@@ -2,6 +2,10 @@
     <string name="app_name">Time Destroyer</string>
     <string name="currentScore">Current Score: %1$d</string>
     <string name="timeLeft">Time Left: %1$d</string>
-    <string name="clickMe">Click me</string>
+    <string name="clickMe">Click me with your nose</string>
     <string name="gameOverMessage">Game over...Your score was: %1$d</string>
+    <string name="aboutMenu">About</string>
+    <string name="aboutTitle">Time Destroyer</string>
+    <string name="aboutMessage">Created by: Devin Annunzio</string>
+
 </resources>
